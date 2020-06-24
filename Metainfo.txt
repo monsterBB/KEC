@@ -2,7 +2,7 @@ Name of QuantLet : KEC
 
 Published in : 
 
-Description : 'A novel clustering algorithm based on expectiles. The cluster centres are defined as multivariate expectiles and clusters are searched via greedy algorithm by minimising within cluster "tau-variance". Applications and simulations are provided.'
+Description : 'A novel clustering algorithm based on expectiles. The cluster centres are defined as multivariate expectiles and clusters are searched via greedy algorithm by minimising within cluster tau-variance. Applications and simulations are provided.'
 
 Keywords : 
 - clustering
